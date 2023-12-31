@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juliankrause86@gmail.com**
 
-- ⚡ Fun fact **it's not a bug it's a feature**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
