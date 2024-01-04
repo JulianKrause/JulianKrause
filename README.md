@@ -4,6 +4,8 @@
 
 
 - 🌱 I’m currently learning **JavaScript, Phyton**
+ 
+-  🔭 I’m currently working on **Hockey Game**
 
 - 📫 How to reach me **juliankrause86@gmail.com**
 
