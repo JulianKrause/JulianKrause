@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript, Phyton**
+- 🌱 I’m currently learning **JavaScript**
  
 -  🔭 I’m currently working on **Hockey Game**
 
