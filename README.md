@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
  
--  🔭 I’m currently working on **Hockey Game**
+-  🔭 I’m currently working on **a Hockey and Memory Game**
 
 - 📫 How to reach me **juliankrause86@gmail.com**
 
